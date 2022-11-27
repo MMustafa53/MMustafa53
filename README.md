@@ -3,6 +3,7 @@
 -  C/C++, C#, .Net, Full-Stack Development, Cyber Sec, Postgresql, Mongo, Couchbase, Cassandra, Elastic, Kibana, Kafka, Redis, K8s, Docker, containerd
 - 🌱 I’m currently learning DevSecOps, RedTeam, BlueTeam, Kotlin, RedHat, AI, ML
 - 💞️ I’m looking to collaborate on OpenSource ...
+- 🐍 This is my first PyPI package https://pypi.org/project/husrev/
 - 📫 How to reach me -> husrevoglu61@gmail.com
 
 <!---
