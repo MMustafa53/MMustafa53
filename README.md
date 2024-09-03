@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MMustafa53
-- 👀 I’m interested in Python, Go, Java, PHP, Javascript, Flask, Fast Api, React, React native, Angular, Flutter, Laravel, Android,
+- 👀 I’m interested in Python, Go, Java, PHP, Javascript, Flask, Fastapi, React, React native, Angular, Flutter, Laravel, Android,
 -  C/C++, C#, .Net, Full-Stack Development, Cyber Sec, Postgresql, Mongo, Couchbase, Cassandra, Elastic, Kibana, Kafka, Redis, K8s, Docker, containerd
 - 🌱 I’m currently learning DevSecOps, RedTeam, BlueTeam, Kotlin, RedHat, AI, ML
 - 💞️ I’m looking to collaborate on OpenSource ...
